@@ -1,0 +1,343 @@
+.weblog{
+    width: 65px;
+}
+.navbar{
+    background: #2125295c!important;
+}
+.navbar-nav li{
+    padding: 0 10px;
+}
+.navbar-nav li a{
+    color: #fff!important;
+    font-weight: 400;
+    font-size: 15px;
+}
+.a{
+    padding-top: 20px;
+    text-transform: uppercase;
+    font-family: 'prague';
+    letter-spacing: 3px;
+ }
+.b{
+    text-align: justify;
+    line-height: 35px;
+    letter-spacing: 1px;
+    word-spacing: 1px;
+    padding-right: 5px;
+ }
+ 
+ .img1{
+    text-align: justify;
+    line-height: 35px;
+    letter-spacing: 1px;
+    word-spacing: 1px;
+    padding-right: 5px;
+}
+.w{
+     background-image: url(https://www.firstfiddle.in/assets/images/bannerabout.jpg);
+    width: 100%;
+    height: 500px;
+    padding-right: 0px !important;
+    padding-left: 0px !important;
+    margin-right: auto;
+    margin-left: auto;
+    background-size: cover
+}
+.row {
+    display: flex;
+    flex-wrap: wrap;
+    margin-right: -15px;
+    margin-left: -15px;
+}
+
+
+.ml-1 {
+    padding-top: 50px;
+    text-transform: uppercase;
+    font-family: 'prague';
+    letter-spacing: 3px;
+}
+@media(max-width:768px)
+{
+    .img1{
+        width:100%;
+    }
+}
+.m{
+    background-image: url(https://www.firstfiddle.in/assets/images/outletbanner.png);
+    width: 100%;
+    height: 600px;
+    padding-right: 0px !important;
+    padding-left: 0px !important;
+    margin-right: auto;
+    margin-left: auto;
+    margin-bottom: 0px !important;
+    background-size: cover;
+}
+@media only screen and (max-width: 600px){
+.mainfooter {
+    padding: 20px;
+}
+}
+.mainfooter {
+    background: #020306f0;
+    padding: 50px;
+    color: #fff;
+}
+@media (min-width: 768px){
+.col-md-5 {
+    flex: 0 0 41.666667%;
+    max-width: 41.666667%;
+}
+}
+@media (min-width: 576px){
+.col-sm-5 {
+    flex: 0 0 41.666667%;
+    max-width: 41.666667%;
+}
+}
+@media (min-width: 768px){
+.col-md-7 {
+    flex: 0 0 58.333333%;
+    max-width: 58.333333%;
+}
+}
+p {
+    font-size: 16px;
+    line-height: 28px;
+    letter-spacing: 1px;
+    margin-top: 0;
+    margin-bottom: 1rem;
+}
+.p-1{
+    letter-spacing: 1px;
+    word-spacing: 2px;
+    line-height: 25px;
+    text-align: justify;
+
+
+}
+.w-2 {
+    background-image: url(https://www.firstfiddle.in/assets/images/gamebanner.jpg);
+    width: 100%;
+    height: 400px;
+    padding-right: 0px !important;
+    padding-left: 0px !important;
+    margin-right: auto;
+    margin-left: auto;
+    margin-bottom: 0px !important;
+    background-size: cover;
+    margin-top: 20px;
+}
+.priyank-content{
+font-size: 15px;
+line-height: 35px;
+letter-spacing: 1px;
+word-spacing: 2px;
+text-align: justify!important;
+}
+
+.boxour{
+    background-image: url(https://www.firstfiddle.in/assets/images/new-our-team.jpg);
+    width: 100%;
+    height: 600px;
+    padding-right: 0px !important;
+    padding-left: 0px !important;
+    margin-right: auto;
+    margin-left: auto;
+    margin-bottom: 0px !important;
+    background-size: cover;
+}
+.photo img{
+    width: 20rem;
+    margin: 1rem;
+}
+
+.press{
+    background-image: url(https://www.firstfiddle.in/assets/images/press-new-1.jpg);
+    width: 100%;
+    height: 600px;
+    padding-right: 0px !important;
+    padding-left: 0px !important;
+    margin-right: auto;
+    margin-left: auto;
+    margin-bottom: 0px !important;
+    background-size: cover;
+}
+.Priyank img{
+    width: 467px;
+}
+.kill img{
+    width: 350px;
+    margin-left: 20px;
+}
+.title{
+    text-align: center;
+    color: #fff;
+    position: relative;
+   
+}
+
+.title-contant{
+    padding: 20px;
+    margin-bottom: 20px;
+    bottom: 30px;
+    z-index: 1;
+    width: 100%;
+    position: absolute;
+    left: 0;
+}
+.post{
+    display: block;
+    padding: 3px 0;
+    font-size: 15px
+}
+.nav-pills {
+    background-color: transparent;
+    color: #000;
+   
+}
+nav-pills .nav-link {
+    background: 0 0;
+    border: 0;
+    border-radius: 0.25rem;
+   
+
+}
+.nav-pills .nav-link.active, .nav-pills .show>.nav-link {
+    color: var(--bs-nav-pills-link-active-color);
+     background-color: transparent;
+    border-bottom: 2px solid #aba7a7;
+    
+    color: #000;
+ }
+
+.pr-iocn{
+    width: 24px;
+    margin-right: 0.5rem;
+    margin-top: -0.35rem;
+}
+.pr-1{
+    padding-right: 0.25rem!important;
+}
+.gallery-grid {
+    width: 100%;
+    padding: 0px;
+    margin: 0px;
+    text-align: center;
+    text-decoration: none;
+}
+
+
+.pr-images{
+    padding: 20px;
+    text-decoration: none;
+}
+.part img{
+    width: 300px;
+}
+.part ul li{
+    text-decoration: none;
+}
+.a li{
+    list-style: none;
+}
+
+
+.online-mention {
+    box-shadow: 0 10px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19) !important;
+    padding: 50px;
+    margin-left: 100px;
+    margin-right: 100px;
+    margin-top: 60px;
+    margin-bottom: 80px;
+}
+.text-center{
+    margin-bottom: 0.5rem;
+    font-weight: 500;
+    line-height: 1.2;
+    text-align: center!important;
+}
+.scrollable {
+    height: 425px;
+    overflow-y: scroll;
+}
+.nav-link {
+    padding: 0.5rem 0rem;
+}
+.nav-pills .nav-link {
+    background: 0 0;
+    border: 0;
+    border-radius: 0.25rem;
+}
+.a {
+    color: #060606;
+    cursor: pointer;
+    text-decoration: none;
+}
+
+h5{
+    color: #000;
+}
+@media (min-width: 768px){
+.col-md-6 {
+    flex: 0 0 50%;
+    max-width: 50%;
+}
+}
+.nav {
+    display: flex;
+    flex-wrap: wrap;
+    padding-left: 0;
+    margin-bottom: 0;
+    list-style: none;
+}
+.box {
+    position: relative;
+    font-family: "Helvetica";
+}
+.img-title {
+    position: absolute;
+    color: #fff;
+    text-align: center;
+    left: 0%;
+    right: 0;
+    top: 45%;
+    letter-spacing: 4px;
+    text-transform: uppercase;
+}
+.mob-banner{
+    display: none;
+}
+@media (max-width:768px)
+{
+.desk-banner{
+    display: none;
+}
+.mob-banner{
+    display: block;
+    width: 100%;
+}
+}
+.contact-us {
+    padding: 3%;
+}
+
+.btn{
+    color: #ffffff;
+    padding: 10px 20px;
+    font-weight: bolder;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    background-color: #fbac29;
+}
+.contact-us-2 {
+    padding: 3%;
+}
+.careers-style {
+    padding: 2%;
+    padding-right: 85px;
+    padding-left: 85px;
+}
+.card-title {
+    margin-bottom: 0.75rem;
+}
